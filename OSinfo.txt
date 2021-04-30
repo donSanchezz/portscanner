@@ -1,1 +1,0 @@
-['Distributor ID:\tKali\n', 'Description:\tKali GNU/Linux Rolling\n', 'Release:\t2020.3\n', 'Codename:\tkali-rolling\n']
